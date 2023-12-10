@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CalcApp/static/css/main.67686378.css",
+    "main.js": "/CalcApp/static/js/main.6ec2341c.js",
+    "index.html": "/CalcApp/index.html",
+    "main.67686378.css.map": "/CalcApp/static/css/main.67686378.css.map",
+    "main.6ec2341c.js.map": "/CalcApp/static/js/main.6ec2341c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67686378.css",
+    "static/js/main.6ec2341c.js"
+  ]
+}
