@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CalcApp/static/css/main.67686378.css",
-    "main.js": "/CalcApp/static/js/main.6b250c99.js",
+    "main.js": "/CalcApp/static/js/main.3e4bdfeb.js",
     "index.html": "/CalcApp/index.html",
     "main.67686378.css.map": "/CalcApp/static/css/main.67686378.css.map",
-    "main.6b250c99.js.map": "/CalcApp/static/js/main.6b250c99.js.map"
+    "main.3e4bdfeb.js.map": "/CalcApp/static/js/main.3e4bdfeb.js.map"
   },
   "entrypoints": [
     "static/css/main.67686378.css",
-    "static/js/main.6b250c99.js"
+    "static/js/main.3e4bdfeb.js"
   ]
 }
