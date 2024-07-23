@@ -14,4 +14,4 @@ Welcome to the Calculator Web Application repository! This project is a simple c
 - **HTML5:** Structure of the web page.
 - **CSS3:** Styling and responsiveness.
 - **JavaScript:** Logic for performing calculations and handling user interactions.
-- - - **React:**
+-  **React:**
